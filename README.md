@@ -22,6 +22,10 @@ Dark stock analytics dashboard inspired by TradingView, Zerodha Kite, and Yahoo 
 | Deployment | Vercel frontend, Flask API service |
 | Domain | dp.duttjatin.pro |
 
+## Installation:-
+
+Clone the Repository: `git clone https://github.com/JatinDuttt/stockvision.git` `cd stockvision` Install Dependencies (if using Node.js): `cd frontend` `npm install` Run the Application: `npm run dev`
+
 ## Run Frontend
 
 ```powershell
